@@ -1,6 +1,6 @@
 # Description
 
-This bundle contains Subform Repeater form element plugin. Please refer to its [documentation](https://dev.joget.org/community/display/marketplace/Status+Color+Datalist+Formatter).
+This bundle contains Status Color Datalist Formatter plugin. Please refer to its [documentation](https://dev.joget.org/community/display/marketplace/Status+Color+Datalist+Formatter).
 
 # Getting Help
 
