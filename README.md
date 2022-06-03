@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+This bundle contains Subform Repeater form element plugin. Please refer to its [documentation](https://dev.joget.org/community/display/marketplace/Status+Color+Datalist+Formatter).
 
 # Getting Help
 
