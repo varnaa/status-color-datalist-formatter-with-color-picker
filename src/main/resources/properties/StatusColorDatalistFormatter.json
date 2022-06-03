@@ -1,0 +1,86 @@
+[{
+    "title" : "@@org.joget.marketplace.StatusColorDatalistFormatter.config@@",
+    "properties" : [
+	{
+        "name" : "statusCaseSensitivity",
+        "label" : "@@org.joget.marketplace.StatusColorDatalistFormatter.statusCaseSensitivity@@",
+        "type" : "checkbox",
+        "options" : [{
+            "value" : "true",
+            "label" : ""
+        }]
+    },
+	{
+        "name":"options",
+        "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.options@@",
+        "type":"grid",
+        "columns":[
+            {
+             "key":"value",
+             "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.value@@"
+            },
+            {
+             "key":"label",
+             "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.label@@"
+            },
+            {
+              "key":"backgroundColor",
+              "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.backgroundColor@@",
+              "options": [{
+                            "value":"RED",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.red@@"
+                            },
+                            {
+                            "value":"PINK",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.pink@@"
+                            },
+                            {
+                            "value":"ORANGE",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.orange@@"
+                            },
+                            {
+                            "value":"YELLOW",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.yellow@@"
+                            },
+                            {
+                            "value":"GREEN",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.green@@"
+                            },
+                            {
+                            "value":"BLUE",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.blue@@"
+                            },
+                            {
+                            "value":"PURPLE",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.purple@@"
+                            },
+                            {
+                            "value":"BLACK",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.black@@"
+                            },
+                            {
+                             "value":"CYAN",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.cyan@@"
+                            },
+                            {
+                            "value":"LIME",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.lime@@"
+                            },
+                            {
+                            "value":"GREY",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.grey@@"
+                            },
+                            {
+                            "value":"SILVER",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.silver@@"
+                            },
+                            {
+                            "value":"BROWN",
+                            "label":"@@org.joget.marketplace.StatusColorDatalistFormatter.colorScheme.brown@@"
+                            }              
+                        ]          
+            }
+        ]
+        }
+    ]
+}]
