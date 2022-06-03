@@ -2,6 +2,8 @@
 
 This bundle contains Status Color Datalist Formatter plugin. Please refer to its [documentation](https://dev.joget.org/community/display/marketplace/Status+Color+Datalist+Formatter).
 
+Developed by: Chong Kah Chun (KC)
+
 # Getting Help
 
 JogetOSS is a community-led team for open source software related to the [Joget](https://www.joget.org) no-code/low-code application platform.
