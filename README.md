@@ -4,6 +4,8 @@ This bundle contains Status Color Datalist Formatter plugin. Please refer to its
 
 Developed by: Chong Kah Chun (KC)
 
+Please consider an improved version of this plugin - [Datalist Color Formatter](https://github.com/jogetoss/datalist-color-formatter)
+
 # Getting Help
 
 JogetOSS is a community-led team for open source software related to the [Joget](https://www.joget.org) no-code/low-code application platform.
