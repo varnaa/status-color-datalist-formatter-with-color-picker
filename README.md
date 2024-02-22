@@ -1,8 +1,10 @@
+![Sample Screenshot](sample-screenshot.png)
+
 # Description
 
 This bundle contains Status Color Datalist Formatter plugin. Please refer to its [documentation](https://dev.joget.org/community/display/marketplace/Status+Color+Datalist+Formatter).
 
-Developed by: Chong Kah Chun (KC)
+Modified by: Varnaa
 
 Please consider an improved version of this plugin - [Datalist Color Formatter](https://github.com/jogetoss/datalist-color-formatter)
 
@@ -33,3 +35,4 @@ Please note that all interactions fall under our [Code of Conduct](https://githu
     limitations under the License.
 
 NOTE: This software may depend on other packages that may be licensed under different open source licenses.
+
