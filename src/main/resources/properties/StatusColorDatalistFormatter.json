@@ -29,13 +29,13 @@
           {
             "key": "backgroundColor",
             "label": "@@org.joget.marketplace.StatusColorDatalistFormatter.backgroundColor@@",
-            "type": "color",
+            "type": "Color",
             "value": "#DEFEE8"
           },
           {
             "key": "textColor",
             "label": "@@org.joget.marketplace.StatusColorDatalistFormatter.textColor@@",
-            "type": "color",
+            "type": "Color",
             "value": "#17C653"
           }
         ]
